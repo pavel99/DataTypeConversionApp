@@ -1,0 +1,6 @@
+E:\Pavel\DataTypeConversionApp\DataTypeConversionApp\bin\Debug\DataTypeConversionApp.exe.config
+E:\Pavel\DataTypeConversionApp\DataTypeConversionApp\bin\Debug\DataTypeConversionApp.exe
+E:\Pavel\DataTypeConversionApp\DataTypeConversionApp\bin\Debug\DataTypeConversionApp.pdb
+E:\Pavel\DataTypeConversionApp\DataTypeConversionApp\obj\Debug\DataTypeConversionApp.csprojResolveAssemblyReference.cache
+E:\Pavel\DataTypeConversionApp\DataTypeConversionApp\obj\Debug\DataTypeConversionApp.exe
+E:\Pavel\DataTypeConversionApp\DataTypeConversionApp\obj\Debug\DataTypeConversionApp.pdb
